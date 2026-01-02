@@ -43,7 +43,7 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#f0f2f5',
+    backgroundColor: '#f0f2f5', // Arka plan rengi
   },
   scrollContainer: {
     padding: 20,
